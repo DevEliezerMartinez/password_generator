@@ -1,8 +1,15 @@
-# React + Vite
+# Generador de Contraseñas Seguras 🔐  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hola, soy **Eliezer Martinez**, y este es un proyecto simple pero útil: un generador de contraseñas seguras. 🛠️  
 
-Currently, two official plugins are available:
+## ¿Qué hace?  
+- **Genera contraseñas fuertes**: Elige la longitud y si incluir mayúsculas, números o símbolos.  
+- **Ver/ocultar y copiar**: Puedes ver la contraseña, ocultarla o copiarla al portapapeles.  
+- **Historial**: Guarda tus contraseñas generadas (si quieres).  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ¿Cómo usarlo?  
+1. Configura las opciones.  
+2. Haz clic en "Generar Contraseña".  
+3. ¡Listo! Cópiala o guárdala.  
+
+¡Así de fácil! 🚀
